@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="haunter" size="2.000000 1.408416" />
+    <ImageTarget name="pikachu" size="2.000000 2.156000" />
+    <ImageTarget name="forest" size="2.000000 1.387692" />
+    <ImageTarget name="charizard1" size="2.000000 2.541667" />
+    <ImageTarget name="eevee" size="2.000000 2.142380" />
+  </Tracking>
+</QCARConfig>
