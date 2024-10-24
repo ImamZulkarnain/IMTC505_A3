@@ -36,9 +36,10 @@ public class PikachuAttack : MonoBehaviour
                 graveyard.SetActive(false);
             }
 
-            if (delay < 0)
+            if (delay > 4)
             {
-
+                this.gameObject.SetActive(false);
+                Destroy(this.gameObject);
             }
         }
         

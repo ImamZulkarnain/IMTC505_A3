@@ -11,7 +11,7 @@ public class HaunterAppear : MonoBehaviour
     void Start()
     {
         this.gameObject.SetActive(false);
-        
+        graveyard.SetActive(false);
 
         sizeChange = new Vector3(0.5f, 0.5f, 0.5f);
         visibleSize = new Vector3(1f, 1f, 1f);

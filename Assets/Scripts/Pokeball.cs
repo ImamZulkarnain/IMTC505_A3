@@ -41,6 +41,7 @@ public class Pokeball : MonoBehaviour
                 anim.enabled = false;
             }
             this.gameObject.SetActive(false);
+            Destroy(this.gameObject);
         }
     }
 }

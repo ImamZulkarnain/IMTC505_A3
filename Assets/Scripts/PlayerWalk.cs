@@ -5,6 +5,7 @@ using UnityEngine;
 public class PlayerWalk : MonoBehaviour
 {
     public Animator anim;
+    public AudioSource audioData;
 
     // Start is called before the first frame update
     void Start()
